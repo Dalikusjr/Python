@@ -14,8 +14,8 @@ Mini jeu de [X O Toe](./XOTOE/XOToe.py)
 ##### Capture d'écran
 ![Capture d'écran XOTOE](./XOTOE/xotoe.png)
 ### 02: Pierre Ciseau Feuille
-Mini jeu de [Pierre Ciseau Feuille](./pcf/pcf.py)
+Mini jeu de [Pierre Ciseau Feuille](./PCF/pcf.py)
 ##### Capture d'écran
-![Capture d'écran XOTOE](./pcf/pcf.png)
+![Capture d'écran XOTOE](./PCF/pcf.png)
 ### 03: Jour d'une année
 Mini app de [doy](./doy/doy.py)
